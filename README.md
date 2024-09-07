@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pham-nhat-thien/)](https://www.linkedin.com/in/pham-nhat-thien/)
 
-I'm PhD in Applied Mathematics and currently doing Post-doc at Gustave Eiffel University.
+I'm PhD in Applied Mathematics and currently doing Post-doc at Gustave Eiffel University and IRT-SystemX
 
 I have been learning and using so far (alphabet):
 - Programming:<br/>
